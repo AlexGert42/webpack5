@@ -1,0 +1,14 @@
+
+
+.cont {
+    width: 960px;
+    background-color: aquamarine;
+    margin: 0 auto;
+    .box {
+        background-image: url('../img/favicon.png');
+        width: 100px;
+        height: 100px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
